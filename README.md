@@ -16,6 +16,7 @@ Filtering data using logical conditions
 Working with the classic mtcars dataset
 
 📁 Repository Structure
+
 Project/
 │
 ├── question_1.py
@@ -130,3 +131,4 @@ Conditional filtering and indexing
 
 
 Safe handling of real-world datasets
+
