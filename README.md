@@ -15,7 +15,7 @@ Filtering data using logical conditions
 
 Working with the classic mtcars dataset
 
-📁 Repository Structure
+📁 Project Structure
 
 Project/
 │
@@ -34,6 +34,7 @@ Project/
 ├── sales_cleaned.csv
 │
 └── README.md
+
 
 📝 Project Overview
 
