@@ -1,4 +1,4 @@
-﻿📘 Data Wrangling & DataFrame Processing Project
+﻿📘 Data Wrangling & DataFrame Processing Project.
 
 This repository contains a collection of Python scripts focused on data cleaning, currency transformation, and structured DataFrame manipulation using pandas.
 The project demonstrates:
