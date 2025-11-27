@@ -17,6 +17,7 @@ Working with the classic mtcars dataset
 
 📁 Project Structure
 
+```bash
 Project/
 │
 ├── question_1.py
@@ -34,7 +35,7 @@ Project/
 ├── sales_cleaned.csv
 │
 └── README.md
-
+```
 
 📝 Project Overview
 
@@ -132,4 +133,5 @@ Conditional filtering and indexing
 
 
 Safe handling of real-world datasets
+
 
